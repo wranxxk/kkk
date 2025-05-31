@@ -37,5 +37,7 @@
 ![image](https://github.com/user-attachments/assets/f4fa14ab-ad93-47de-ad5f-98df009ef222)
 
 
+Процесс игры можно посмотреть по [ссылке](https://youtu.be/0PDWPkxfznQ)
+
 
 #### Приятной игры!
