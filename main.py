@@ -11,7 +11,7 @@ import pandas as pd
 class RunningApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("🏃 Анализ пробежек | Панова А.С.")
+        self.root.title("🏃 Анализ пробежек ")
         self.root.geometry("1100x750")
         self.df = None
 
